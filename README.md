@@ -19,3 +19,4 @@ ANALYSIS DIRECTION
  - How do organic vs. promoted content types compare in terms of reach
  and performance
 
+📄 [View the full Social Media Performance Visualization PDF](https://github.com/edelnurintan/SOCIAL-MEDIA-PERFORMANCE-/blob/main/SOCIAL%20MEDIA%20PERFORMANCE%20VISUALIZATION.pdf)
